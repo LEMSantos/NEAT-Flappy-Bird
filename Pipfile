@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 pygame = "==2.1.2"
 pydash = "==5.1.2"
-neat-python = "*"
+neat-python = "==0.92"
 
 [dev-packages]
 
