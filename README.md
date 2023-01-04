@@ -36,6 +36,7 @@ Noções Básicas - [Criando um Flappy Bird com Python e Pygame](https://www.you
 Demonstração
 ------------
 
+https://user-images.githubusercontent.com/23699861/209699748-a2f0f01c-cf55-457f-8229-02077ef42a1d.mp4
 
 
 [pygame]: http://www.pygame.org
